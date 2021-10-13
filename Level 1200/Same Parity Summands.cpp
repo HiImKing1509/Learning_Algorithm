@@ -46,7 +46,7 @@ void SolveProblem()
 		cout << "YES\n";
 		for (ll i = 1; i < k; i++)
 			cout << 1 << " ";
-		cout << n - k + 1;
+		cout << n - --k;
 	}
 	else
 	{
