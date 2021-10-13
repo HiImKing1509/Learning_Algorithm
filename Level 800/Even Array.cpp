@@ -1,11 +1,11 @@
-                /*------------------------------------------------------------------------*            
-                |    User: Huynh Viet Tuan Kiet                                           |
-                |    Degree: Student - Formal University                                  |
-                |    Study Computer Science at University of Information Technology       |
-                |    Country: Viet Nam                                                    |
-                |    City: Ho Chi Minh                                                    |
-                |    Organization: VNUHCM - UIT - University of Information Technology    | 
-                *-------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------*
+|    User: Huynh Viet Tuan Kiet                                           |
+|    Degree: Student - Formal University                                  |
+|    Study Computer Science at the University of Information Technology   |
+|    Country: Viet Nam                                                    |
+|    City: Ho Chi Minh                                                    |
+|    Organization: VNUHCM - UIT - University of Information Technology    |
+*-------------------------------------------------------------------------*/
 #include <iostream>
 #include <vector>
 #include <queue>
