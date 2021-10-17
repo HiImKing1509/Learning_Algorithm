@@ -56,7 +56,6 @@ void SolveProblem()
 	bool flag = false;
 	for (ll i = 1; i <= n; i++)
 	{
-		a[i];
 		if (a[a[a[i]]] == i) flag = true;
 		if (flag) break;
 	}
