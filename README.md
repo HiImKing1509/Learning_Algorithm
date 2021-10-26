@@ -1,3 +1,4 @@
+![alt tag](https://assets.codeforces.com/users/kguseva/comments/cf.png)
 # **CODEFORCES OVERVIEW**
 ## What is Codeforces
  - It is needless to say the **importance of competitive programming** in any Software Engineer’s journey. Most of the beginners have no idea how to use ***Codeforces*** and end up wasting a lot of time on it. Most of them also get demotivated when they are not able to solve problems and end up with the thought that they are not capable of doing it.
