@@ -43,19 +43,19 @@ void SolveProblem()
         cin >> n;
         while (n != 0)
         {
-        a.push_back(n % 10);
-        n /= 10;
+		a.push_back(n % 10);
+		n /= 10;
         }
 
         reverse(a.begin(), a.end());
         if (a[0] != 9 && a[0] >= 5)
-        a[0] = 9 - a[0];
+        	a[0] = 9 - a[0];
         for (ll i = 1; i < a.size(); i++)
-        if (a[i] >= 5)
-            a[i] = 9 - a[i];
+		if (a[i] >= 5)
+		    a[i] = 9 - a[i];
 
         for (auto i : a)
-        cout << i;
+        	cout << i;
         cout << "\n";
 }
 
